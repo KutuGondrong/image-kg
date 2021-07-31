@@ -1,6 +1,6 @@
-# IMAGEKGLIBRARY
+# ImageKg
 
-ImageKGLibrary primary focus is on making scrolling any kind of a list of images as smooth 
+ImageKg primary focus is on making scrolling any kind of a list of images as smooth 
 and fast as possible for display a remote image.
 
 ## Usage
@@ -27,7 +27,7 @@ Step 2. Add the dependency
 	}
 
 ```
-## How to Use
+## Introduction
 
 ```
     ImageKG.dslImageHelper {
